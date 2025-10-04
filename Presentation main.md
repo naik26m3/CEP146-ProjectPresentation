@@ -8,3 +8,13 @@
 * Automated Testing: Creates test cases for APIs and UIs, improving app reliability and reducing manual QA effort.
 * Tool Integration: Seamlessly interacts with external APIs and DevOps tools to automate workflows and deployments.
 * Scalability & Accuracy
+
+# Examples
+* Vercel
+  Vercel, the company behind Next.js, has integrated GPT-5 into its development workflow and tools. They describe GPT-5 as “the best frontend AI model,” highlighting its ability to generate responsive UI components, improve design aesthetics, and assist with real-time code suggestions. This has significantly enhanced productivity for front-end developers.
+
+* Cursor
+  Cursor, an AI-powered IDE built specifically for developers, uses GPT-5 to provide intelligent code completion, debugging assistance, and architectural suggestions. The team behind Cursor calls GPT-5 “the smartest model” they’ve tested, noting its superior reasoning and ability to follow nuanced instructions—making it a powerful tool for professional software engineers.
+
+* Index.dev
+  Index.dev is a global developer platform that connects skilled engineers with companies eager to harness the power of GPT-5. These collaborations focus on building AI-native applications where GPT-5 can plan, code, and deploy entire projects from a single prompt. The platform emphasizes GPT-5’s ability to streamline development workflows, reduce manual effort, and accelerate product delivery. By leveraging GPT-5’s advanced reasoning and tool integration, developers are creating smarter, more scalable software solutions across industries.
