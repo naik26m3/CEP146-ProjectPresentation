@@ -68,3 +68,4 @@ With GPT-5, it can now give smarter code suggestions, help debug, and find bugs 
 “Here is a question for yall.. The question is “Is it ethical for companies to hire AI instead of interns when human learning is at stake?””
 "Thank you for watching."
 
+**Audio and Video:** https://drive.google.com/drive/folders/1TwYXqeS3EGb0Zw-t8PWX2PH97zA56p7Z
