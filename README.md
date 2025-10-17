@@ -8,5 +8,11 @@ Team Members:
 
 ### Topic Summary
 
-Youtube Link:
+This video introduces GPT-5 and how it is changing the way poeple develop software. It tell about GPT-5 capabilities, real-world applications, benefits, challenges, and its ethical problem when the job market is competitive right now.
+
+Youtube Link: https://youtu.be/D9Kt9efnBdM?si=GJp_wAa4T7Rh4I-V
+
+### Thought provoking question:
+
+"Is it ethical for companies to hire AI instead of interns when human learning is at stake?"
 
